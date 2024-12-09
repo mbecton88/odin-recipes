@@ -1,1 +1,2 @@
 # odin-recipes
+Hello! Like so many others, I have taken the initial steps learn full-stack web development. This is will be a simple recipes page that will constantly be improved and and enhanced as I dive deeper into the curriculum.
