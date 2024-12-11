@@ -1,6 +1,14 @@
-.section-heading {
-    background-color: #d7e4fa;
+.main-title {
+    background-color: #faebd7;
+}
+
+.section2-heading {
+    background-color: #faebd7;
     font: #000000;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.sub-heading {
+    background-color: #faebd7;
 }
